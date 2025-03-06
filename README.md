@@ -1,6 +1,4 @@
-![Food Website pic 1](https://github.com/GurdeepSingh-767/Food-Site/blob/main/img/img7.png)
-![Food Website pic 2](https://github.com/GurdeepSingh-767/Food-Site/blob/main/img/img77.png)
-![Food Websitepic 3](https://github.com/GurdeepSingh-767/Food-Site/blob/main/img/img777.png)
+![Food Website pic 1](https://github.com/vamsikrishnapullamsetti/landing-page)
 
 # Food-Site
 This repository contains the source code for a modern and visually appealing landing page for a food website. It is built using HTML, CSS, and JavaScript, providing a seamless and immersive user experience. With this landing page, you can showcase your culinary delights and captivate your audience.
